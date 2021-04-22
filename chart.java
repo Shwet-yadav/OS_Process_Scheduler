@@ -113,7 +113,7 @@ public class chart extends JFrame
          {
             dataset.add(series[i]);
          }
-         // dataset.add(series2)...;
+         // dataset.add(series2);
          return dataset;
       }
       catch(Exception e)
